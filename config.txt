@@ -1,0 +1,7 @@
+[user]
+	email = enrih.sinilaid@gmail.com
+	name = Enrih Sinilaid
+[winUpdater]
+	recentlySeenVersion = 2.21.0.windows.1
+[core]
+	editor = code
