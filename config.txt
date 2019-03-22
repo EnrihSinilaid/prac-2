@@ -1,8 +1,0 @@
-[user]
-	email = enrih.sinilaid@gmail.com
-	name =
-[winUpdater]
-	recentlySeenVersion = 2.21.0.windows.1
-[core]
-	editor = code
-.rar -a proprietary archive file format that supports data compression, error recovery and file spanning.
